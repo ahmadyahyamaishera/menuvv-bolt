@@ -1,0 +1,1 @@
+- [Uploaded Vite bundle setup](uploaded-vite-bundle-setup.md) — Uploaded site archives may include source and lockfiles but omit node_modules; install declared packages before starting the workflow.
