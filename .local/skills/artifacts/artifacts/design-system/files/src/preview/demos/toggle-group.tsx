@@ -1,4 +1,4 @@
-import { AlignCenter, AlignLeft, AlignRight } from 'lucide-react';
+import { TextAlignCenter as AlignCenter, ChevronLeft as AlignLeft, Highlighter as AlignRight } from 'lucide-react';
 import {
   ToggleGroup,
   ToggleGroupItem,

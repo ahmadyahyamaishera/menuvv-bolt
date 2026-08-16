@@ -1,4 +1,4 @@
-import { FileText, Home, Settings } from 'lucide-react';
+import { FileText, Hop as Home, Settings } from 'lucide-react';
 import {
   Sidebar,
   SidebarContent,

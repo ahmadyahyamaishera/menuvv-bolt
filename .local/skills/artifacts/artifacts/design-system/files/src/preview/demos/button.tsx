@@ -1,4 +1,4 @@
-import { ArrowRight, Loader2, Mail } from 'lucide-react';
+import { ArrowRight, Loader as Loader2, Mail } from 'lucide-react';
 import { Button } from '../../components/ui/button';
 import { Row } from '../parts';
 

@@ -1,4 +1,4 @@
-import { FileText, MoreHorizontal } from 'lucide-react';
+import { FileText, MoveHorizontal as MoreHorizontal } from 'lucide-react';
 import { Button } from '../../components/ui/button';
 import {
   Item,
